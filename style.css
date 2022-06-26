@@ -1,0 +1,19 @@
+
+body{
+    box-sizing: border-box;
+}
+table,th, td{
+    border:1px solid black;
+    margin: 10;
+    padding: 10px;  
+}
+
+
+tbody,thead{
+    background: rgba(138, 203, 233, 0.247);
+}
+caption{
+    color: green;
+    font-size: larger;
+    border:1px solid black;
+}
